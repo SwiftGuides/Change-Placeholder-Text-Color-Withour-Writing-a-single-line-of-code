@@ -14,10 +14,12 @@ You can accomplish this quickly, without adding a line of code, using Interface 
 
 2. Click on the plus button and add a new runtime attribute:
  
- `
+ ```
  placeholderLabel.textColor (Swift 4)
 
-_placeholderLabel.textColor (Swift 3 or less) `
+_placeholderLabel.textColor (Swift 3 or less) 
+
+```
 
 
 3. Use Color as type and select the color.
